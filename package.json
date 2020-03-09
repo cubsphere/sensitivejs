@@ -1,0 +1,8 @@
+{
+    "name": "sensitivejs",
+    "version": "1.0.0",
+    "dependencies": {
+        "jose": "^1.22.2",
+        "yargs": "^15.1.0"
+    }
+}
